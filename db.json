@@ -1,13 +1,15 @@
 {
   "posts": [
     {
-      "pageNo": 2,
+      "id": 1,
+      "pageNo": 1,
       "category": "DRESS",
       "brand": "브랜드명",
       "info": "상품명상품명상품명 abcdefg 1234"
     },
     {
-      "pageNo": 2,
+      "id": 2,
+      "pageNo": 1,
       "category": "BOTTOM",
       "brand": "브랜드명",
       "info": "상품명상품명상품명 abcdefg 1234"
