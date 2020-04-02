@@ -1,14 +1,16 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    {
+      "pageNo": 2,
+      "category": "DRESS",
+      "brand": "브랜드명",
+      "info": "상품명상품명상품명 abcdefg 1234"
+    },
+    {
+      "pageNo": 2,
+      "category": "BOTTOM",
+      "brand": "브랜드명",
+      "info": "상품명상품명상품명 abcdefg 1234"
+    }
+  ]
 }
