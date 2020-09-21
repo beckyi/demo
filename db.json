@@ -1,5 +1,7 @@
 {
-  "menus":[],
+  "menus":[{
+    "when": "lunch"
+  }],
   "items": [
     {
       "id": 1,
